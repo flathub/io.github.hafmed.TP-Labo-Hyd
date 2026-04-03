@@ -13,6 +13,6 @@ modules:
     buildsystem: cmake-ninja
     sources:
        - type: archive
-         url: https://github.com/hafmed/TP-Labo-Hyd/archive/refs/tags/v2.0.9-release1.tar.gz
-         sha256: e65af736660af3409dfdcca2fb09e659ea4db59b1faf53e6106ecf0d30fac69a
+         url: https://github.com/hafmed/TP-Labo-Hyd/archive/refs/tags/v2.1.0-release1.tar.gz
+         sha256: f0494d22df0239fb4077788e9e4a0d0b9eebd5bd669cfb198d1c473805006e95
 
